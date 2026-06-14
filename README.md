@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>ChainScope-Analytics</h1>
+  <h1>sharif-chain-scope</h1>
   <p><strong>Real-time blockchain analytics and transaction tracking dashboard.</strong></p>
 </div>
 
@@ -7,7 +7,7 @@
 
 ## 📖 Overview
 
-ChainScope-Analytics is a critical component of our decentralized ecosystem. This repository contains the source code, tests, and deployment configurations necessary to run the service. Built with modern, enterprise-grade architecture, it ensures high availability, secure execution, and seamless integration with the broader network.
+sharif-chain-scope is a critical component of our decentralized ecosystem. This repository contains the source code, tests, and deployment configurations necessary to run the service. Built with modern, enterprise-grade architecture, it ensures high availability, secure execution, and seamless integration with the broader network.
 
 ## ✨ Key Features
 
@@ -26,8 +26,8 @@ ChainScope-Analytics is a critical component of our decentralized ecosystem. Thi
 
 \\\ash
 # Clone the repository
-git clone https://github.com/YourOrganization/ChainScope-Analytics.git
-cd ChainScope-Analytics
+git clone https://github.com/YourOrganization/sharif-chain-scope.git
+cd sharif-chain-scope
 
 # Install dependencies and build
 # (Refer to package.json or Cargo.toml for specific build commands)
