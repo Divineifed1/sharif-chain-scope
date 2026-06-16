@@ -24,14 +24,17 @@ sharif-chain-scope is a critical component of our decentralized ecosystem. This 
 
 ### Local Installation
 
-\\\ash
+\`\`\`bash
 # Clone the repository
 git clone https://github.com/YourOrganization/sharif-chain-scope.git
 cd sharif-chain-scope
 
+# Copy environment variables (edit .env with your values)
+cp .env.example .env
+
 # Install dependencies and build
 # (Refer to package.json or Cargo.toml for specific build commands)
-\\\
+\`\`\`
 
 ## 🤝 Contributing
 We welcome contributions from the community! Please read our [Contributing Guidelines](./CONTRIBUTING.md) to get started. Before submitting a Pull Request, ensure that you have reviewed our [Code of Conduct](./CODE_OF_CONDUCT.md).
