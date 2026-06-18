@@ -29,8 +29,10 @@ sharif-chain-scope is a critical component of our decentralized ecosystem. This 
 git clone https://github.com/YourOrganization/sharif-chain-scope.git
 cd sharif-chain-scope
 
-# Install dependencies and build
-# (Refer to package.json or Cargo.toml for specific build commands)
+# Copy environment variables (edit .env with your values)
+cp .env.example .env
+
+# Install dependencies
 npm install
 ```
 
