@@ -29,6 +29,9 @@
         "typescript": "^5.0.2",
         "vite": "^4.2.0"
     },
+    "engines": {
+        "node": ">=20 <21"
+    },
     "private": true,
     "repository": {
         "type": "git",
